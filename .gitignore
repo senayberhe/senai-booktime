@@ -5,3 +5,5 @@ main/migrations
 node_modules
 yarn.lock
 senay_booktime_mobile/node_modules
+senay_booktime_mobile/ios/Pods
+senay_booktime_mobile/yarn.lock
