@@ -4,3 +4,4 @@ main/migrations
 .vscode
 node_modules
 yarn.lock
+senay_booktime_mobile/node_modules
