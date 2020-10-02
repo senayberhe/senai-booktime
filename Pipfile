@@ -11,6 +11,7 @@ psycopg2 = "*"
 pillow = "*"
 djangorestframework = "*"
 django-filter = "*"
+selenium = "*"
 
 [requires]
 python_version = "3.8"
