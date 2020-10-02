@@ -30,6 +30,7 @@ whitenoise = "*"
 django-environ = "*"
 boto3 = "*"
 django-storages = "*"
+gunicorn = "*"
 
 [requires]
 python_version = "3.8"
