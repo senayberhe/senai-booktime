@@ -1,1 +1,4 @@
 booktime/settings.py
+Pipfile.lock
+main/migrations
+.vscode
