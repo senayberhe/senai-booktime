@@ -26,6 +26,10 @@ channels = "*"
 channels-redis = "*"
 aioredis = "*"
 aiohttp = "*"
+whitenoise = "*"
+django-environ = "*"
+boto3 = "*"
+django-storages = "*"
 
 [requires]
 python_version = "3.8"

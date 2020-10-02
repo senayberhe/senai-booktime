@@ -7,3 +7,13 @@ yarn.lock
 senay_booktime_mobile/node_modules
 senay_booktime_mobile/ios/Pods
 senay_booktime_mobile/yarn.lock
+
+
+__pycache__/ 
+db.sqlite3
+media/ 
+staticfiles/ 
+bundles/  
+webpack-stats.json 
+geckodriver.log 
+.env
