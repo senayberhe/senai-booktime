@@ -31,6 +31,7 @@ django-environ = "*"
 boto3 = "*"
 django-storages = "*"
 gunicorn = "*"
+django-heroku = "*"
 
 [requires]
 python_version = "3.8"
