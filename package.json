@@ -1,0 +1,30 @@
+{
+    "name": "senai-booktime",
+    "version": "1.0.0",
+    "main": "index.js",
+    "repository": "https://github.com/senayberhe/senai-booktime.git",
+    "author": "senay berhe <tsionberhe@gmail.com>",
+    "license": "MIT",
+    "scripts": {
+        "test": "jest",
+        "build": "webpack",
+        "build-prod": "webpack --config webpack.prod.config.js"
+    },
+    "jest": {
+        "moduleDirectories": [
+            "node_modules",
+            "frontend"
+        ],
+        "testURL": "http://localhost"
+    },
+    "dependencies": {
+        "enzyme": "^3.11.0",
+        "enzyme-adapter-react-16": "^1.15.5",
+        "jest": "^26.4.2",
+        "react": "^16.13.1",
+        "react-dom": "^16.13.1",
+        "webpack": "^4.44.2",
+        "webpack-bundle-tracker": "^1.0.0-alpha.1",
+        "webpack-cli": "^3.3.12"
+    }
+}

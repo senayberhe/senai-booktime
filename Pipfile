@@ -12,6 +12,7 @@ pillow = "*"
 djangorestframework = "*"
 django-filter = "*"
 selenium = "*"
+django-webpack-loader = "*"
 
 [requires]
 python_version = "3.8"
