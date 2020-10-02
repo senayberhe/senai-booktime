@@ -7,7 +7,7 @@ from django.core.validators import MinValueValidator
 from django.db import models
 from django.db.models import Count, Sum
 
-# from . import exceptions
+from . import exceptions
 
 logger = logging.getLogger(__name__)
 
