@@ -21,6 +21,7 @@ factory-boy = "*"
 django-debug-toolbar = "*"
 django-tables2 = "*"
 django-widget-tweaks = "*"
+weasyprint = "*"
 
 [requires]
 python_version = "3.8"
